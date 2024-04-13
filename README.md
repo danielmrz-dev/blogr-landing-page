@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Front-end Mentor Website](https://your-solution-url.com)
+- Solution URL: [Solution on Front-end Mentor Website](https://www.frontendmentor.io/solutions/blogr-landing-page-f-bEXUaOCE)
 - Live Site URL: [Live site](https://danielmrz-dev.github.io/blogr-landing-page/)
 
 ## My process
